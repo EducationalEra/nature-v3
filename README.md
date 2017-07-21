@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Природознавство (Проект)
+# Природничі науки (Проект 3)
 
 1. [Наша мета](#zvernennya)
 2. [Чому ми започаткували цей проект?](#chomu)
