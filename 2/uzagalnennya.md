@@ -22,12 +22,12 @@
 
 <table>
   <tr>
-    <td colspan="3" align="center"><b>Очікувані результати</b></td>
+    <td colspan="3" align="center"><b>Очікувані результати навчально-пізнавальної діяльності учнів</b></td>
   </tr>
   <tr>
   <td width="33%" align="center"><b>Діяльність</b></td>
   <td width="33%" align="center"><b>Знання</b></td>
-  <td width="33%" align="center"><b>Цінність</b></td>
+  <td width="33%" align="center"><b>Цінності</b></td>
   </tr>
   <tr>
   <td width="33%" style="vertical-align:top !important;">

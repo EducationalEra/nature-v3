@@ -2,13 +2,13 @@
 
 # Речовини, які використовує людина (40 годин)
 
-## Очікувані результати
+## Очікувані результати навчально-пізнавальної діяльності учнів
 
 <table>
   <tr>
   <td width="33%" align="center"><b>Діяльність</b></td>
   <td width="33%" align="center"><b>Знання</b></td>
-  <td width="33%" align="center"><b>Цінність</b></td>
+  <td width="33%" align="center"><b>Цінності</b></td>
   </tr>
   <tr>
   <td width="33%" style="vertical-align:top !important;">
